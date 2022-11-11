@@ -1,11 +1,11 @@
 ## what 
 
-* archlinux365: Love Archlinux and use it everyday
+* archlinux365: archlinux-based projects
 
 ## why
 
-* KISS,yes,keep it simple and stupid: 保持简单 一目了然
-* I can understand it.
+* KISS
+* AUR
 
 ## Support Contact:
 

@@ -7,6 +7,13 @@
 * KISS
 * AUR
 
+## THANKS
+
+* github
+* sourceforge
+* archlinux
+
+
 ## Support Contact:
 
  https://t.me/archlinux365
